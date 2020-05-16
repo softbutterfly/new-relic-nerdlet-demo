@@ -1,0 +1,10 @@
+.*
+!.gitignore
+*.bundle.*
+*.egg-info/
+*.tsbuildinfo
+lib/
+tmp/
+dist/
+node_modules/
+

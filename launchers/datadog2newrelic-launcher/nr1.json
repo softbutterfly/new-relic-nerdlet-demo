@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "datadog2newrelic-launcher",
+    "displayName": "Datadog2NewRelic",
+    "description": "Custom New Relic Nerdlet to show some available metrics in data dog display format.",
+    "rootNerdletId": "datadog2newrelic-nerdlet"
+}

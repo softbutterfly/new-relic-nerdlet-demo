@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "name": "datadog2newrelic",
+    "version": "1.22.1",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "e76cc30f-68f8-4151-a791-2c638e04b3ab"
+    },
+    "dependencies": {
+        "@antv/data-set": "^0.11.4",
+        "prop-types": "^15.6.2",
+        "react": "^16.6.3",
+        "react-dom": "^16.6.3",
+        "viser-react": "^2.4.8"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}
